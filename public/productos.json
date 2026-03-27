@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "nombre": "Desinfectante Mandarina",
+    "precio": 12500,
+    "categoria": "desinfectante",
+    "subcategoria": "aroma",
+    "descripcion": "Elimina el 99% de bacterias, aroma cítrico duradero.",
+    "imagen": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=400"
+  },
+  {
+    "id": "p2",
+    "nombre": "Desinfectante Papaya",
+    "precio": 13000,
+    "categoria": "desinfectante",
+    "subcategoria": "aroma",
+    "descripcion": "Fragancia tropical intensa, limpieza profunda.",
+    "imagen": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?w=400"
+  },
+  {
+    "id": "p3",
+    "nombre": "Detergente 3L",
+    "precio": 35000,
+    "categoria": "lavanderia",
+    "subcategoria": "liquido",
+    "descripcion": "Alto rendimiento, ideal para ropa blanca y color.",
+    "imagen": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400"
+  },
+  {
+    "id": "p4",
+    "nombre": "Detergente 3L2",
+    "precio": 35000,
+    "categoria": "secado",
+    "subcategoria": "secado2",
+    "descripcion": "Alto rendimiento, ideal para ropa blanca y color.",
+    "imagen": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=400"
+  }
+]
